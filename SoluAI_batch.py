@@ -12,8 +12,8 @@ else:
     print("Berhasil terhubung ke node Solu Test Network")
 
 # Alamat pengirim dan kunci pribadi
-sender_address = '0x8c6271BaE8B0e1641F3226039A00733442948f5c'  # Ganti dengan alamat Anda
-private_key = '09752ab8e35a1ed8754aaa83aeee587b1ff93cda3dbb36d84208eb03ba6ee9d2'  # Ganti dengan kunci pribadi Anda
+sender_address = ''  # Ganti addressmu yaa
+private_key = ''  #  isi private keymu cok
 
 # Alamat penerima dan jumlah yang akan dikirim (dalam Wei)
 recipient_address = '0x699a1098477b315e0989c0723814e4Ea98868df2'  # Ganti dengan alamat penerima
